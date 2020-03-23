@@ -4,6 +4,8 @@
 
 tensorflow 2.0 >=
 
+check tensorflow 2.0, 2.1
+
 - summary
 
 This code convert tf.keras model to tflite model(weight int8 quantization)
